@@ -7,11 +7,11 @@ const styles = StyleSheet.create({
   },
   basicContainerResto: {
     flex: 1,
-    minHeight: 370,
+    minHeight: 480,
   },
   basicContainer: {
     flex: 1,
-    minHeight: 500,
+    minHeight: 700,
   },
   paperinput: {
     width: 300,
@@ -164,6 +164,7 @@ const styles = StyleSheet.create({
   logoutButton: {
     backgroundColor: '#d70000',
     alignItems: 'center',
+    color: 'white',
     justifyContent: 'center',
     borderRadius: 8,
     marginTop: 10,
